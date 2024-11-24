@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ESNext", // Or a version of your choice, e.g., ES6
+    "module": "ESNext", // Or "CommonJS" depending on your build setup
+    "jsx": "react-jsx", // This enables JSX transformation (for React 17+)
+    "moduleResolution": "node",
+    "strict": true, // Optional but recommended
+    "esModuleInterop": true, // Optional: if you need compatibility with commonjs
+    "skipLibCheck": true, // Optional: can help with large dependency trees
+    "forceConsistentCasingInFileNames": true // Optional: checks for case-sensitive filenames
+  },
+  "include": ["src/**/*"]
+}
