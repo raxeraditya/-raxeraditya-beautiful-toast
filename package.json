@@ -1,6 +1,6 @@
 {
   "name": "@raxeraditya/beautiful-toast",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A beautiful, modern toast component for React applications",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
